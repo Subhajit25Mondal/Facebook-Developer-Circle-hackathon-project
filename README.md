@@ -1,2 +1,2 @@
-# JU-hackathon-project
-This is a project of an  Ad search Engine for young/upcoming entrepreneurs to publish their products online.  
+# JUHackathonProject
+A project demonstrating Search Engine using html, css, bootstrap.
